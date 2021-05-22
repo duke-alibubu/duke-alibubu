@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **duke-alibubu/duke-alibubu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- My name is Trịnh Tuấn Dũng, a Vietnamses Software Engineer currently living in Singapore.
+- My last name is kinda hard to pronounce so I'd prefer people to call me Duke. Alibubu is my fun name :D
+- 🔭 I have knowledge in back-end, front-end and mobile programming, even though my frontend knowledge is a bit limited
+- 🌱 I’m currently learning to code Discord bot, mainly for leisure :D
+- 📫 How to reach me: Email me at ttdungalibubu@gmail.com
