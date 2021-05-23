@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 🤔 Education: Bachelor's Degree in Engineering at Nanyang Technological University, Singapore
 - 🔭 I have knowledge in back-end, front-end and mobile programming, even though my frontend knowledge is a bit limited
-- 🌱 I’m currently learning to code Discord bot, mainly for leisure :D
+- 🌱 I’m currently learning to code Discord bot, mainly for leisure 😄
 - 📫 How to reach me: Email me at ttdungalibubu@gmail.com
 - ⚡ Fun fact: I enjoy drawing & gaming & leisure coding ⚡
